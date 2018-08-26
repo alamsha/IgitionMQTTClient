@@ -11,6 +11,8 @@ Tested on Ubuntu 18.04, openjdk version "1.8.0_181"
 
 Download and install the latest stable deb version from this site:
 
+http://emqtt.io/downloads
+
 Make sure no other MQTT brokers like Moquitto, Mosca etc is running to avoid port clash.
 
 Start emdttd broker:
@@ -25,8 +27,6 @@ http://localhost:18083/#/listeners
 user: admin
 
 password: public
-
-http://emqtt.io/downloads
 
 **Step 2 --- Generate and serve dynamic tags from Ignition as JSON payload:**
 
