@@ -44,4 +44,4 @@ Make sure ignition_group1.php code doesn't serve more than 500 dynamic tags as J
     Just double click and run "simple-mqtt-websocket-example-master/index.html" file. You will see all published messages.
     
 
-**still working on JAVA-MQTT-PubSub client**
+**....... still working on JAVA-MQTT-PubSub client**
