@@ -41,7 +41,9 @@ Make sure ignition_group1.php code doesn't serve more than 500 dynamic tags as J
     cd mqtt-ignition/
     python3 mqtt-publish.py
     
-    Just double click and run "simple-mqtt-websocket-example-master/index.html" file. You will see all published messages.
+    Just double click and run "simple-mqtt-websocket-example-master/index.html" file. 
+    
+    You will see all published messages on the browser.
     
 
 **....... still working on JAVA-MQTT-PubSub client**
