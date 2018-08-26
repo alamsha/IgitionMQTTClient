@@ -34,7 +34,7 @@ Follow this link. Download and run the "Ignition-IOT-Nirvana" demo project from 
 
 https://github.com/alamsha/Ignition-IOT-Nirvana
 
-Make sure ignition_group1.php code doesn't serve more than 500 dynamic tags as JSON api. EMQ broker ignores any JSON payload with more than 500 tags.
+Make sure ignition_group1.php code doesn't serve more than 500 dynamic tags as JSON api. EMQ broker ignores any JSON payload with more than 500 tags per topic.
 
 **Step 3 --- Download this repo:**
 
